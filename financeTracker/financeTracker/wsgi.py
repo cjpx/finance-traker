@@ -1,5 +1,5 @@
 """
-WSGI config for PathOfGrace project.
+WSGI config for financeTracker project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
